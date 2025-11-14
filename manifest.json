@@ -10,12 +10,12 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/worship mixer.png",
+      "src": "/worship-mixer-icon.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/worship mixer.png",
+      "src": "/worship-mixer-icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
